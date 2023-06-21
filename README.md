@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariuszbialas
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning JavaScript bei alfatraining Zentrum
 - 💞️ I’m looking to collaborate on frontend development
 
 <!---
